@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "642217831008",
+    "firebase_url": "https://todo-8880e.firebaseio.com",
+    "project_id": "todo-8880e",
+    "storage_bucket": "todo-8880e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642217831008:android:70a47cff89c20ce7",
+        "android_client_info": {
+          "package_name": "com.example.dellpc.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642217831008-udc8jhr8ao26b0odcu5rrpfkkr9s62v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dellpc.todo",
+            "certificate_hash": "51EB9C77BF50E4ABE8CF4966F72441588175C8C2"
+          }
+        },
+        {
+          "client_id": "642217831008-riiiguak88j5e7k2gb3rv6t8cftu6jm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwdC4NTVGUtmjA_ywQfVr32S05n4YqpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642217831008-riiiguak88j5e7k2gb3rv6t8cftu6jm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
